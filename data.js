@@ -30,8 +30,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -3.1149421407239046,
-          "pitch": -0.40503370748515444,
+          "yaw": -2.7149421407239046,
+          "pitch": -0.50503370748515444,
           "title": "Welcome to the Gymkhana",
           "text": "ENG: This is our playing spaces. A representation of the projects we have been working along the MDEF. We hope you enjoy it!!<div><br></div><div>ESP: Estos son nuestros espacios de juego. Una representación digital de los proyectos que hemos hecho a lo largo de MDEF. ¡¡Esperamos que disfrutes!!<br><div><br></div></div>"
         }
