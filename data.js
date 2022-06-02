@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-portada",
-      "name": "Inicio",
+      "name": "Welcome to the Gymkhana",
       "levels": [
         {
           "tileSize": 256,
