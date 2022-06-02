@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-portada",
-      "name": "portada",
+      "name": "Inicio",
       "levels": [
         {
           "tileSize": 256,
@@ -39,7 +39,7 @@ var APP_DATA = {
     },
     {
       "id": "1-anillas",
-      "name": "anillas",
+      "name": "Anilla(s)",
       "levels": [
         {
           "tileSize": 256,
@@ -76,7 +76,7 @@ var APP_DATA = {
     },
     {
       "id": "2-pintat",
-      "name": "pintat",
+      "name": "Pintat",
       "levels": [
         {
           "tileSize": 256,
@@ -113,7 +113,7 @@ var APP_DATA = {
     },
     {
       "id": "3-modular_furniture",
-      "name": "modular_furniture",
+      "name": "Modular Furniture",
       "levels": [
         {
           "tileSize": 256,
@@ -150,7 +150,7 @@ var APP_DATA = {
     },
     {
       "id": "4-crosshabit",
-      "name": "crosshabit",
+      "name": "Crosshabit",
       "levels": [
         {
           "tileSize": 256,
@@ -187,7 +187,7 @@ var APP_DATA = {
     },
     {
       "id": "5-la_diana",
-      "name": "la_diana",
+      "name": "La Diana",
       "levels": [
         {
           "tileSize": 256,
@@ -224,7 +224,7 @@ var APP_DATA = {
     },
     {
       "id": "6-forest_game",
-      "name": "forest_game",
+      "name": "Forest Game",
       "levels": [
         {
           "tileSize": 256,
@@ -261,7 +261,7 @@ var APP_DATA = {
     },
     {
       "id": "7-test_portada",
-      "name": "test_portada",
+      "name": "Final",
       "levels": [
         {
           "tileSize": 256,
